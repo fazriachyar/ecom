@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 function ForgotPassword() {
     return (
         <div className="forgot-password-container">

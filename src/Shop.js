@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 function Shop() {
     return (
         <div className="shop-container">

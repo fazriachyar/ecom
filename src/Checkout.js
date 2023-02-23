@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 function Checkout() {
     return (
         <div className="checkout-container">

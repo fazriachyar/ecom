@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 import "jquery/dist/jquery.slim.min.js";
 import "popper.js/dist/umd/popper.min.js";
 import "bootstrap/dist/js/bootstrap.min.js";
@@ -8,7 +7,7 @@ function Header() {
     return (
         <nav class="navbar navbar-expand-lg navbar-light bg-white w-100 navigation" id="navbar">
         <div class="container">
-            <Link class="navbar-brand font-weight-bold" to={{ pathname: "/"}}>E-Shop</Link>
+            <Link class="navbar-brand font-weight-bold" to={{ pathname: "/"}}>Talitul</Link>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar"
             aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
